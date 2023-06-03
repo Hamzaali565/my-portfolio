@@ -7,7 +7,7 @@ const Banner = () => {
       <TypeAnimation
         className="text-white font-bold sm:text-lg md:text-3xl"
         sequence={[
-          "HI! my Name Is Hamza 👋.", // Types 'One'
+          "Hi! my Name Is Hamza 👋.", // Types 'One'
           1000, // Waits 1s
           "I am a MERN Stack Developer.", // Deletes 'One' and types 'Two'
           2000, // Waits 2s
